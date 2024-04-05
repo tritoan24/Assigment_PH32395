@@ -1,0 +1,138 @@
+{
+  "account": [
+    {
+      "name": "toanntph",
+      "password": "Toan2508@",
+      "email": "toanntph32395@gmail.com",
+      "phone": "0987654321",
+      "address": "Hanoi",
+      "birthday": "25/08/1995",
+      "image": "https://www.google.com.vn/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png",
+      "gender": 0,
+      "id": "22f5"
+    },
+    {
+      "id": "adfa",
+      "name": "Anh",
+      "phone": "Hshs",
+      "address": "N pi",
+      "birthday": "04:23:25, 3/1/1970",
+      "image": null,
+      "gender": "Female",
+      "email": "Toan@gmail.com",
+      "password": "Toan1234"
+    },
+    {
+      "id": "e195",
+      "name": "Toan",
+      "phone": "092837737",
+      "address": "Gahs",
+      "birthday": "04:23:25, 3/1/1970",
+      "image": null,
+      "gender": "Other",
+      "email": "Toan@gmail.com",
+      "password": "Toan1234"
+    }
+  ],
+  "dongvat": [
+    {
+      "yeuthich": false,
+      "image": "https://azpet.com.vn/wp-content/uploads/2022/08/C2653-C13155-1-375x375.jpg",
+      "name": "Hunni",
+      "doHot": "Phổ Biến Ưa Chuộng",
+      "imfor": "Mèo lông dài Anh có bộ lông óng ánh và thân hình chắc nịch. Đầu của chúng tròn với mắt sáng, hình tròn và tai ngắn. Chân của chúng ngắn nhưng khỏe. Đuôi cũng có lông dài và dày. Mèo lông dài Anh có bộ ngực sâu, gây cảm tưởng rằng chúng kích thước trung bình và chắc nịch.",
+      "price": 2000000,
+      "arrDichVu": [
+        "Hợp Đồng 1 năm",
+        "Sổ Theo Dõi Sức Khỏe",
+        "Hỗ trợ bác sĩ thú y miễn phí 1 năm",
+        "Tẩy Giun định kì",
+        "Điều trị chống ký sinh trùng",
+        "Tiêm chủng cập nhật",
+        "Sách hướng dẫn chăm sóc"
+      ],
+      "loai": 2,
+      "id": "1"
+    },
+    {
+      "yeuthich": true,
+      "image": "https://azpet.com.vn/wp-content/uploads/2022/06/C2285-C12955-1.jpg",
+      "name": "Anh Lông Ngan",
+      "doHot": "Phổ Biến Ưa Chuộng",
+      "imfor": "Mèo lông dài Anh có bộ lông óng ánh và thân hình chắc nịch. Đầu của chúng tròn với mắt sáng, hình tròn và tai ngắn. Chân của chúng ngắn nhưng khỏe. Đuôi cũng có lông dài và dày. Mèo lông dài Anh có bộ ngực sâu, gây cảm tưởng rằng chúng kích thước trung bình và chắc nịch.",
+      "price": 2000000,
+      "arrDichVu": [
+        "Hợp Đồng 1 năm",
+        "Sổ Theo Dõi Sức Khỏe",
+        "Hỗ trợ bác sĩ thú y miễn phí 1 năm",
+        "Tẩy Giun định kì",
+        "Điều trị chống ký sinh trùng",
+        "Tiêm chủng cập nhật",
+        "Sách hướng dẫn chăm sóc",
+        "Giảm 20% Spa Grooming"
+      ],
+      "loai": 1,
+      "id": "2"
+    },
+    {
+      "yeuthich": true,
+      "image": "https://azpet.com.vn/wp-content/uploads/2022/05/C2220-C12929-1.jpg",
+      "name": "Anh Lông Ngan",
+      "doHot": "Phổ Biến Ưa Chuộng",
+      "imfor": "Mèo lông dài Anh có bộ lông óng ánh và thân hình chắc nịch. Đầu của chúng tròn với mắt sáng, hình tròn và tai ngắn. Chân của chúng ngắn nhưng khỏe. Đuôi cũng có lông dài và dày. Mèo lông dài Anh có bộ ngực sâu, gây cảm tưởng rằng chúng kích thước trung bình và chắc nịch.",
+      "price": 2000000,
+      "arrDichVu": [
+        "Hợp Đồng 1 năm",
+        "Sổ Theo Dõi Sức Khỏe",
+        "Hỗ trợ bác sĩ thú y miễn phí 1 năm",
+        "Tẩy Giun định kì",
+        "Điều trị chống ký sinh trùng",
+        "Tiêm chủng cập nhật",
+        "Sách hướng dẫn chăm sóc",
+        "Giảm 20% Spa Grooming"
+      ],
+      "loai": 2,
+      "id": "3"
+    },
+    {
+      "yeuthich": false,
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/Meo-Anh-Long-Dai.jpg",
+      "name": "Meo Lông Dài Anh",
+      "doHot": "Phổ Biến Ưa Chuộng",
+      "imfor": "Mèo lông dài Anh có bộ lông óng ánh và thân hình chắc nịch. Đầu của chúng tròn với mắt sáng, hình tròn và tai ngắn. Chân của chúng ngắn nhưng khỏe. Đuôi cũng có lông dài và dày. Mèo lông dài Anh có bộ ngực sâu, gây cảm tưởng rằng chúng kích thước trung bình và chắc nịch.",
+      "price": 2203060,
+      "arrDichVu": [
+        "Hợp Đồng 1 năm",
+        "Sổ Theo Dõi Sức Khỏe",
+        "Hỗ trợ bác sĩ thú y miễn phí 1 năm",
+        "Tẩy Giun định kì",
+        "Điều trị chống ký sinh trùng",
+        "Tiêm chủng cập nhật",
+        "Sách hướng dẫn chăm sóc",
+        "Giảm 20% Spa Grooming"
+      ],
+      "loai": 1,
+      "id": "4"
+    },
+    {
+      "yeuthich": false,
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/Meo-Anh-Long-Dai.jpg",
+      "name": "Meo Lông Dài Anh",
+      "doHot": "Phổ Biến Ưa Chuộng",
+      "imfor": "Mèo lông dài Anh có bộ lông óng ánh và thân hình chắc nịch. Đầu của chúng tròn với mắt sáng, hình tròn và tai ngắn. Chân của chúng ngắn nhưng khỏe. Đuôi cũng có lông dài và dày. Mèo lông dài Anh có bộ ngực sâu, gây cảm tưởng rằng chúng kích thước trung bình và chắc nịch.",
+      "price": 2203060,
+      "arrDichVu": [
+        "Hợp Đồng 1 năm",
+        "Sổ Theo Dõi Sức Khỏe",
+        "Hỗ trợ bác sĩ thú y miễn phí 1 năm",
+        "Tẩy Giun định kì",
+        "Điều trị chống ký sinh trùng",
+        "Tiêm chủng cập nhật",
+        "Sách hướng dẫn chăm sóc",
+        "Giảm 20% Spa Grooming"
+      ],
+      "loai": 2,
+      "id": "5"
+    }
+  ]
+}
